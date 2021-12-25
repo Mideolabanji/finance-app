@@ -1,0 +1,38 @@
+body {
+  background: #f5f5f5;
+}
+
+.body {
+  max-width: 600px;
+  margin: 30px auto;
+  padding-top: 20px;
+  padding-bottom: 10px;
+  background: white;
+  box-shadow: 1px 1px 1px 1px rgb(0 0 0 / 10%);
+  border-radius: 7px;
+}
+
+h1 {
+  text-align: center;
+}
+
+.columns {
+  padding: 50px 20px;
+  border-radius: 20px;
+  margin-bottom: 20px;
+}
+
+.income-box {
+  border: 1px solid palegreen;
+  background-color: palegreen;
+}
+
+.expense-box {
+  border: 1px solid #e50914;
+  background-color: #e50914;
+}
+
+.balance-box {
+  border: 1px solid #fdd14f;
+  background-color: #fdd14f;
+}
